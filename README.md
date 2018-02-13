@@ -6,7 +6,7 @@ Spectra is a public, single-purpose, for-boredom and good for-nothing Discord bo
 
 ## Join DDevs's:
 
-[![Join Discord Developers]((https://discord.gg/0p9LSGoRLu6Pet0k))]
+[![Join Discord Developers](https://discord.gg/discord-developers)]
 
 
 ## How can I add Spectra to my server?
