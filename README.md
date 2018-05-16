@@ -22,3 +22,9 @@ If you have questions, there is a very slight chance the question is answered in
 ## About this repository
 
 The code here is strictly for use (Currently, it is the live code). Running this code on your own is supported; I will be providing the resources necessary to self-host.
+
+
+## Notice
+ I am Jagrosh's alt, I do provide some support. 
+ 
+ VISIT: https://www.youtube.com/watch?v=DLzxrzFCyOs for A tutorial
